@@ -3,4 +3,4 @@ project(StudyC)
 
 set(CMAKE_CXX_STANDARD 14)
 
-add_executable(StudyC main.cpp)
+add_executable(StudyC main.cpp OperatorPlus.cpp Person.cpp Person.h)
